@@ -1,4 +1,4 @@
-# MAI. ML.
+# MAI. ML
 
 _№_|_Deadline_|_Link_
 --|--|--|
